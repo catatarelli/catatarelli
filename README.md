@@ -1,7 +1,7 @@
  <abc>
+  <h2 align="left"> <br>Hi! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br>Catalina Tarelli, Full Stack Web Developer 💻</h2> 
-  <img  width="37%" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" alt="Coding" />
- </abc>
+  </abc>
 
 <h2 align="left">📩 Let's get connected:</h2>
 <br>  
