@@ -83,5 +83,5 @@
 
 - 💻 &nbsp;I'm currently working on MERN Stack
 - 💬 &nbsp;Ask me about anything related to Javascript/Typescript or React/Express
-- 📫 &nbsp;How to reach me: [@cristinafores](https://www.linkedin.com/in/catalina-tarelli/)
+- 📫 &nbsp;How to reach me: [@catatarelli](https://www.linkedin.com/in/catalina-tarelli/)
 <br>
